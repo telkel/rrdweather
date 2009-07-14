@@ -13,7 +13,7 @@ Windows : Installation directions for the Windows version are available under re
 
 = Howto =
 
-Someone has wrote a cool guide to run RRDWeather on Knopp Myth
+Someone has written a cool guide to run RRDWeather on Knopp Myth
 It is available at the following URL : http://mysettopbox.tv/phpBB2/viewtopic.php?p=115720
 
 = Demo =
