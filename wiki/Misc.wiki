@@ -2,8 +2,7 @@
 
 =Ubuntu=
 
-The package is available in the download section. Deb package : this project is available under the Ubuntu Universe repository thanks to Lionel Porcheron.
-Installation
+This project is available under the Ubuntu Universe repository thanks to Lionel Porcheron.
 
 =Howto=
 
