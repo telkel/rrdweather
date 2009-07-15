@@ -43,7 +43,7 @@ Q : I get a blank page when trying to reach weather.cgi in my web browser
 A : You will probably need to install the missing perl library
 
     Under Debian systems :
-    # apt-get install librrds-perl
+    apt-get install librrds-perl
 
     Under RedHat systems :
     You will need to install the package "perl-rrdtool" provided by several 3rd party repositories.
