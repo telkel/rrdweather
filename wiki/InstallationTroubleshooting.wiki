@@ -1,4 +1,5 @@
 #summary Installing RRDWeather and troubleshooting
+#labels Featured
 
 =What do I need ?=
 
