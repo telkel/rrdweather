@@ -1,3 +1,5 @@
+#summary Demo sites
+
 = Demo =
 
   * Greifswald, Germany : http://inge.dnsalias.org/cgi-bin/weather.cgi
