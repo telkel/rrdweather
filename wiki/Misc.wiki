@@ -1,4 +1,4 @@
-#summary Misc info
+#summary Misc links, howto, etc.
 #labels Featured
 
 =Ubuntu=
