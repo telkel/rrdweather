@@ -62,6 +62,6 @@ A : apt-get install libxml-simple-perl
 Q : I can reach weather.cgi but no graph is displayed !
 
 A : check the permissions on :
-    - the database directory : directory reachable by your web server ?
-    - the database files must be owned by the web server user/group and writable by the web server.
-    - the temporary directory and its files. These should be owned by the web server user/group
+  * the database directory : directory reachable by your web server ?
+  * the database files must be owned by the web server user/group and writable by the web server.
+  * the temporary directory and its files. These should be owned by the web server user/group
