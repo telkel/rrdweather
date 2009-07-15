@@ -3,15 +3,15 @@
 
 =What do I need ?=
 
-- a linux or unix machine running 24/7
-- awk, sed, curl and wget
-- apache webserver allowing ExecCGI (or any other webserver)
-- rrdtool >= 1.2.0
-- the following perl libraries :
-    * RRDs
-    * POSIX
-    * perl::XML::Simple
-    * perl::XML::Parser
+  * a linux or unix machine running 24/7
+  * awk, sed, curl and wget
+  * apache webserver allowing ExecCGI (or any other webserver)
+  * rrdtool >= 1.2.0
+  * the following perl libraries :
+     * RRDs
+     * POSIX
+     * perl::XML::Simple
+     * perl::XML::Parser
 
 
 =Installation steps=
