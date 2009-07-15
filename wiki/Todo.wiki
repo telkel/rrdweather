@@ -1,0 +1,1 @@
+  * tabs for daily/weekly/... graphs instead of everything on 1 page
