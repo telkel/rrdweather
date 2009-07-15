@@ -1,4 +1,5 @@
 #summary Demo sites
+#labels Featured
 
 = Demo =
 
