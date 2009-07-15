@@ -16,6 +16,8 @@
 
 =Installation steps=
 
+- install rrdtool, a web server and all those stuff mentionned above
+
 - if you want to monitor cities outside of the USA, find the international city code by searching on weather.com
   By searching for "Mons, Belgium" I'm pointed to this URL : http://www.weather.com/weather/local/BEXX0014?from=search_city
   The international city code is BEXX0014.
