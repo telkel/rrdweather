@@ -1,6 +1,6 @@
 ===Version 0.44 - July 2009===
 - weather.cgi :
-  * If the GET parameter 'zip' is not provided, use the first ZIP code found in /etc/rrdweather.conf ZIPS variable instead.
+  * If the GET parameter 'zip' is not provided, use the first ZIP code found in /etc/rrdweather.conf ZIPS variable instead. Patch by Heikki Hokkanen.
   *
 
 
