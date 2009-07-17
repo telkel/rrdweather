@@ -12,6 +12,7 @@
      * POSIX
      * perl::XML::Simple
      * perl::XML::Parser
+     * perl::Config::File
 
 
 =Installation steps=
@@ -52,6 +53,7 @@ A : You will probably need to install the missing perl library
 
     Or build from sources.
 
+
 ----
 
 Q : Can't locate XML/Simple.pm in @INC (@INC contains: /etc/perl /usr/local/lib/perl/5.10.0 /usr/local/share/perl/5.10.0 /usr/lib/perl5 /usr/share/perl5 /usr/lib/perl/5.10 /usr/share/perl/5.10 /usr/local/lib/site_perl .) at /usr/lib/cgi-bin/weather.cgi line 11.
@@ -61,6 +63,12 @@ A : apt-get install libxml-simple-perl
 
 ----
 
+Q. Can't locate Config/File.pm in @INC (@INC contains: /etc/perl /usr/local/lib/perl/5.10.0 /usr/local/share/perl/5.10.0 /usr/lib/perl5 /usr/share/perl5 /usr/lib/perl/5.10 /usr/share/perl/5.10 /usr/local/lib/site_perl .) at /usr/lib/cgi-bin/weather.cgi line 12.
+
+A : apt-get install libconfig-file-perl
+
+
+----
 
 Q : I can reach weather.cgi but no graph is displayed !
 
