@@ -23,7 +23,11 @@
   By searching for "Mons, Belgium" I'm pointed to this URL : http://www.weather.com/weather/local/BEXX0014?from=search_city
   The international city code is BEXX0014.
 
-- "untar-gz" the files to a temporary directory
+- either grab the latest tar.gz in the downloads section or checkout the SVN trunk
+
+- in case you go with the SVN trunk {{{svn checkout http://rrdweather.googlecode.com/svn/trunk/ rrdweather}}}
+
+- skip this step if you downloaded the SVN version. {{{tar xvzf rrdweather-x.xx.tar.gz}}}
 
 - edit files/rrdweather.conf to fit the locations you want to monitor, your needs and configuration
   edit files/rrdweather_cron and change the user that must run the script (by default www-data under Debian, apache under RedHat)
