@@ -1,4 +1,4 @@
-===Version 0.44 - July 2009===
+===Version 0.44 - SVN trunk===
 - weather.cgi :
   * If the GET parameter 'zip' is not provided, use the first ZIP code found in /etc/rrdweather.conf ZIPS variable instead. Patch by Heikki Hokkanen. *This change requires a new perl library (Config::File)*
   * some small fixes (typo, etc.)
